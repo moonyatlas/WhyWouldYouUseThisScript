@@ -1,0 +1,24 @@
+; example.why
+; written on version 0.0.1 of WhyWouldYouUseThisScript by Rory
+; Semicolons are comments, these are ignored by the compiler
+
+1@0 ; This stores the value 1, inside of buffer slot 0
+2@1 ; This stores the value 2, inside of buffer slot 1
+
+0+1@2 ; This adds buffer slot 0 with buffer slot 1, and stores the outcome in buffer slot 2
+!2 ; This prints the buffer slot 2, which is 3
+$0
+$1
+$2
+; These free the buffers 0,1 and 2
+; From now on ill stop commenting :3
+
+2@0
+3@1
+
+0*1@2
+!2
+2/0@3
+!3
+1-0@2
+!2
