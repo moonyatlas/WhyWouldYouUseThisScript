@@ -1,5 +1,5 @@
-# I AM GONNA REWRITE THIS USING HEAP MEMORY
-## WHY? Because my current code sucks, ill add in statements like if, for and while alongside jumps
+# I AM GONNA REWRITE THIS IN PYTHON
+## WHY? Because my current code sucks and C is just hard to work in, i am a simple man so ill just use python.
 
 
 
